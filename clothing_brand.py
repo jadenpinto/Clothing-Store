@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun  4 10:20:33 2020
-
-@author: DELL
-"""
-
 
 #CLOTHING BRAND
 #PROJECT
