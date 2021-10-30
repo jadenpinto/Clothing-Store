@@ -58,3 +58,7 @@ User defined functions:
 - write(): writes data into the file
 - lower(): returns the string after converting all characters to lower case
 - upper(): returns the string after converting all characters to upper case  writerow(): The writerow() method writes a row of data into the specified file
+
+ # Conclusion 
+
+From this project it is quite evident that online cloth shopping is much more efficient than shopping in stores and malls due to several reasons. The major inspiration behind this project is its practicality. During long periods of lockdown, when malls and stores around the world are all shut down consumers often turn towards online shopping to satisfy their needs. Online shopping stores are open round the clock of 24/7, 7 days a week and 365 days. It is very rare to find any conventional retail stores that are open 24/7. The availability of online stores gives you the freedom to shop at your own pace and convenience. Another major advantage of online shopping is that it is constantly evolving and turning into a seamless experience, thanks to the advancement of technology. 5G will make mobile shopping easier than ever, and hardware such as AR and VR offer a novel way to see and try out a product before clicking on the ‘checkout’ button. Finally, Buying online means that you can read millions of reviews to ensure the quality of the product before purchasing it.
