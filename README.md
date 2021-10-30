@@ -10,15 +10,15 @@ The system is built with the following objectives: -
 - Finding the final price of bill is easy.
 - Feedback systems supports development and improvement of store
 
-# Modules used:
+# Modules used
 - csv module
 - random module
 
-# Files used:
+# Files used
 - billing.csv
 - FEEDBACK.csv
 
-# Variables used:
+# Variables used
 - shopping_cart- Shopping cart of customer where items are strored
 - a – Random generated number for security system
 - n – User input of confirmation number which should be same as the random generated number
@@ -32,7 +32,7 @@ The system is built with the following objectives: -
 - Rating – Customer rating for the shops service
 - Suggestions – Suggestions of customer to improve the shop(if any)
 
-# Functions used:
+# Functions used
 
 User defined functions:
 - robot() – Used to verify that user is a not robot by providing a verification code which must be typed in properly by the user.
@@ -59,6 +59,6 @@ User defined functions:
 - lower(): returns the string after converting all characters to lower case
 - upper(): returns the string after converting all characters to upper case  writerow(): The writerow() method writes a row of data into the specified file
 
- # Conclusion 
+ # Conclusion
 
 From this project it is quite evident that online cloth shopping is much more efficient than shopping in stores and malls due to several reasons. The major inspiration behind this project is its practicality. During long periods of lockdown, when malls and stores around the world are all shut down consumers often turn towards online shopping to satisfy their needs. Online shopping stores are open round the clock of 24/7, 7 days a week and 365 days. It is very rare to find any conventional retail stores that are open 24/7. The availability of online stores gives you the freedom to shop at your own pace and convenience. Another major advantage of online shopping is that it is constantly evolving and turning into a seamless experience, thanks to the advancement of technology. 5G will make mobile shopping easier than ever, and hardware such as AR and VR offer a novel way to see and try out a product before clicking on the ‘checkout’ button. Finally, Buying online means that you can read millions of reviews to ensure the quality of the product before purchasing it.
